@@ -6,7 +6,7 @@
 
 
 header{
-  background: #BFA2DB;
+  background: #6f4e37;
   color: #ffffff;
   padding: 20px 0;
   text-align: center;
@@ -85,7 +85,7 @@ main{
   margin-top: 10px;
 }
 .card button:hover{
-  background-color: #0056b3;
+  background-color: #481919;
 }
 
 .caffess_selected{
